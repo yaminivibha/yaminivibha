@@ -8,11 +8,11 @@
 
 👯 Part of: Columbia Society of Women Engineers, Columbia Data Product Initiative, Columbia Journal of Global Health
 
-🏙️ Fellow @ hackNY, Break Through Tech AI
+🏙️ Fellow @ hackNY, Break Through Tech AI; DS Intern @ Oden Technologies
 
 🧠 Interested in: Exploring how to use math, CS, and data science to solve real-world problems 
 
-🌟 Previously: Hart Lab @ MD Anderson, O'Shaughessy Lab @ Columbia Chemical Engineering, Shreck Lab @ JHH Neuro-Oncology, Janowski Lab @ JHU Cell Engineering
+🌟 Previously: Hart Lab @ MD Anderson, O'Shaughessy Lab @ Columbia ChemEng, Shreck Lab @ JHH Neuro-Oncology, 
 
 📫 Reach me: yva2002 (at) columbia (dot) edu
 
