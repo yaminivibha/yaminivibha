@@ -15,3 +15,5 @@
 📫 Reach me: yva2002 (at) columbia (dot) edu
 
 😄 Pronouns: She/her
+
+[![Yamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaminivibha)](https://github.com/yaminivibha/github-readme-stats)
