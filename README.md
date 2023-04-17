@@ -6,7 +6,7 @@
 
 🔭 Senior at Columbia University studying Applied Math + CS 
 
-👯 Part of Columbia Society of Women Engineers, Columbia Data Product Initiative, Columbia Journal of Global Health
+👯 Part of Columbia in Tech, Columbia Society of Women Engineers, Columbia Data Product Initiative, Columbia Journal of Global Health
 
 🏙️ Fellow @ hackNY, Break Through Tech AI
 
