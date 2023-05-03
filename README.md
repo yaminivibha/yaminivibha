@@ -6,6 +6,7 @@
 I'm Yamini, a senior at Columbia studying Applied Math and Computer Science. I'm broadly interested in the intersection of data, ml, and software development. Giving back to my communities and achieving equity in CS/math (particularly through education) are important to me. 
 
 😄 Pronouns: She/her/hers
+
 💭 Incoming Quantitative Research Intern @ Resera Capital ('23)
 
 👯 Teaching Assistant (x6) @ Columbia in CS, Math, Applied Math, and History (courses incl. Discrete Math (x3), AI, ODE, and Data: Past/Present/Future)
