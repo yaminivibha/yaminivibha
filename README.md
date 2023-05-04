@@ -3,7 +3,7 @@
 <!--
 **yva2002/yva2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm Yamini, a senior at Columbia studying Applied Math and Computer Science. I'm broadly interested in the intersection of data, ml, and software development. Giving back to my communities and achieving equity in CS/math (particularly through education) are important to me. 
+I'm Yamini, a senior at Columbia studying Applied Math and Computer Science. I'm broadly interested in the intersection of data, ml, and software development. 
 
 😄 Pronouns: She/her/hers
 
