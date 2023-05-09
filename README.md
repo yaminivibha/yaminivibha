@@ -35,4 +35,6 @@ src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/clo
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheairflow.svg" alt="airflow" width="40" height="40"/> </a> 
 </p>
 
-[![Yamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaminivibha)](https://github.com/yaminivibha/github-readme-stats)
+
+![Yamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaminivibha&show_icons=true&theme=transparent)
+
