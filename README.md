@@ -3,15 +3,17 @@
 <!--
 **yva2002/yva2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm Yamini, a senior at Columbia studying Applied Math and Computer Science. I'm broadly interested in the intersection of data, ml, and software development. 
+I'm Yamini, a recent graduate from Columbia. I studied Applied Math and Computer Science. I'm broadly interested in the intersection of data, ml, and software development. 
 
 😄 Pronouns: She/her/hers
 
+🤖 Currently: AI Engineering Intern @ Celonis + Mentor @ hackNY
+
 👯 Teaching Assistant (x6) @ Columbia in CS, Math, Applied Math, and History (courses incl. Discrete Math (x3), AI, ODE, and Data: Past/Present/Future)
 
-🏙️ Fellow @ Columbia in Tech, Fellow ('22) + Mentor ('23) @ hackNY, Fellow @ Break Through Tech AI ('22)
+🏙️ Fellow @ Columbia in Tech, Fellow ('22) @ hackNY, Fellow @ Break Through Tech AI ('22)
 
-🌟 Previously: Data Science @ Oden Technologies ('22), Hart Lab @ MD Anderson ('21), O'Shaughessy Lab @ Columbia ChemEng ('21), Shreck Lab @ JHH Neuro-Oncology ('19), JHU Cell Engineering ('19)
+🌟 Previously: Quant Research @ Resera Capital; Data Science @ Oden Technologies ('22); Hart Lab @ MD Anderson ('21); O'Shaughessy Lab @ Columbia ChemEng ('21); Shreck Lab @ JHH Neuro-Oncology ('19); JHU Cell Engineering ('19)
 
 🔍 How I work:
 <p align="left"> 
