@@ -7,13 +7,13 @@ I'm Yamini, a recent graduate from Columbia, where I studied Applied Math and Co
 
 😄 Pronouns: She/her/hers
 
-🤖 Currently: AI Engineering Intern @ Celonis + Mentor @ hackNY
+🤖 Currently: SWE @ Celonis (CeloAI) + Mentor @ hackNY
 
-👯 Teaching Assistant (x6) @ Columbia in CS, Math, Applied Math, and History (courses incl. Discrete Math (x3), AI, ODE, and Data: Past/Present/Future)
+👯 Teaching Assistant @ Columbia in CS, Math, Applied Math, and History (courses incl. Discrete Math, AI, ODE, and Data: Past/Present/Future)
 
-🏙️ Fellow @ Columbia in Tech ('22-23), Fellow ('22) @ hackNY, Fellow @ Break Through Tech AI ('22)
+🏙️ Fellow @ Columbia in Tech ('22-23), Fellow, Mentor ('22, '23) @ hackNY, Fellow @ Break Through Tech AI ('22)
 
-🌟 Previously: Quant Research @ Resera Capital; Data Science @ Oden Technologies ('22); Hart Lab @ MD Anderson ('21); O'Shaughessy Lab @ Columbia ChemEng ('21); Shreck Lab @ JHH Neuro-Oncology ('19); JHU Cell Engineering ('19)
+🌟 Previously: AI Engineering Intern @ Celonis; Quant Research @ Resera Capital; Data Science @ Oden Technologies ('22); Hart Lab @ MD Anderson ('21); O'Shaughessy Lab @ Columbia ChemEng ('21); Shreck Lab @ JHH Neuro-Oncology ('19); JHU Cell Engineering ('19)
 
 🔍 How I work:
 <p align="left"> 
