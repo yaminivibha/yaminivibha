@@ -7,7 +7,7 @@ I'm Yamini, a recent graduate from Columbia, where I studied Applied Math and Co
 
 😄 Pronouns: She/her/hers
 
-🤖 Currently: SWE @ Celonis (CeloAI) + Mentor @ hackNY
+🤖 Currently: SWE @ Celonis (CeloAI)
 
 👯 Teaching Assistant @ Columbia in CS, Math, Applied Math, and History (courses incl. Discrete Math, AI, ODE, and Data: Past/Present/Future)
 
