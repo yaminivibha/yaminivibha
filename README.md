@@ -9,6 +9,6 @@ I'm Yamini, a recent graduate from Columbia, where I studied Applied Math and Co
 
 🤖 Currently: SWE @ Celonis (CeloAI Research)
 
-👯 Teaching Assistant @ Columbia (courses incl. Discrete Math, Artificial Intelligence, Differential Equations, and Data: Past/Present/Future)
+👯 Previously: Teaching Assistant @ Columbia (courses incl. Discrete Math, Artificial Intelligence, Differential Equations, and Data: Past/Present/Future)
 
-🏙️ Fellow @ Columbia in Tech ('22-23), Fellow, Mentor ('22, '23) @ hackNY, Fellow @ Break Through Tech AI ('22)
+🏙️ Fellow @ Columbia in Tech ('22-23), Fellow & Mentor @ hackNY ('22, '23), Fellow @ Break Through Tech AI ('22)
